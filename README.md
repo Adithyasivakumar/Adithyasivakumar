@@ -1,45 +1,87 @@
-<p align="center">
+<div align="center">
+  <h1>Adithya</h1>
+  <h3>Software Engineer | CS Undergraduate | DSA & System Design Enthusiast</h3>
+  <p>
+    <a href="www.linkedin.com/in/adithyasivakumar6805" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:adithyasivakumar07@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="[your-portfolio-url]" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
   </p>
+</div>
 
-<h1 align="center">Hi there, I'm Adithya 👋</h1>
-<h3 align="center">Software Engineer | Computer Science Student | Problem Solver</h3>
+---
 
-<br>
+### 👨‍💻 About Me
+I'm a third-year Computer Science student, passionate about building efficient and user-focused solutions. I am deeply focused on mastering the pillars of great software through robust **Data Structures & Algorithms** and scalable **System Design**. I enjoy translating these foundational concepts into practice by building full-stack applications, from architecting the server-side logic to engineering the user interface.
 
-I'm a passionate and driven Computer Science student, with a strong focus on becoming a proficient Software Engineer. My goal is to leverage my skills in programming and design to build efficient, scalable, and user-focused software solutions. I'm driven by the challenge of breaking down complex problems into clean, logical, and understandable code.
+- 🎓 &nbsp; **Computer Science Undergraduate** 
+- ✨ &nbsp; My primary tech interests include **Data Structures & Algorithms, System Design, Full-Stack Development,** and **AI/ML**.
+- 🎯 &nbsp; Currently seeking a challenging **Software Engineering Internship** to contribute to impactful projects and learn from experienced industry professionals.
+- 🌱 &nbsp; Enthusiastic about exploring **machine learning, automation,** and applying engineering principles to solve real-world problems.
 
-- 🔭 I’m currently building full-stack applications to translate foundational concepts into real-world practice.
-- 🌱 I’m mastering the pillars of great software: **Data Structures & Algorithms** and **System Design**.
-- 🤔 I’m also actively exploring the exciting fields of **Artificial Intelligence** and **Machine Learning**.
+---
 
-- 📫 How to reach me: **adithyasivakumar07@gmail.com**
+### 🚀 Focus Areas
+- 🧠 &nbsp; Mastering core **Data Structures and Algorithms** in Java and Python.
+- 🏗️ &nbsp; Designing scalable and efficient systems by studying **System Design** principles.
+- 💻 &nbsp; Building and architecting full-stack applications from concept to deployment.
+- 📄 &nbsp; Writing **clean, optimized, and well-documented code**.
+- 📈 &nbsp; Solving complex problems on platforms like **LeetCode** to sharpen my analytical skills.
 
-<br>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[your-linkedin-url]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
-<a href="[your-portfolio-url]" target="blank"><img align="center" src="https://img.shields.io/badge/My_Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="My Portfolio" /></a>
-</p>
+### 🛠️ Tools & Technologies
 
-<br>
+Here are some of the technologies I work with. I have organized them to give you a clear view of my skillset.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+#### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<br>
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adithyasivakumar&show_icons=true&locale=en&theme=dracula" alt="your-github-stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adithyasivakumar&layout=compact&langs_count=8&theme=dracula" alt="top-languages" />
-</p>
+#### Cloud / DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+#### AI / ML Exploration
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+### 📊 GitHub & LeetCode Activity
+
+<div align="center">
+  <a href="https://github.com/Adithyasiva">
+    <img src="https://github-readme-stats.vercel.app/api?username=Adithyasivakumar&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://leetcode.com/
+Adithya_sivakumar/">
+    <img src="https://leetcard.jacoblin.cool/
+Adithya_sivakumar?theme=dark&font=Syne%20Mono" alt="LeetCode Stats" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>Remember to pin your best projects below! Good luck!</h3>
+</div>
