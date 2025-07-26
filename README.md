@@ -1,75 +1,83 @@
-<h1 align="center">Hi, I'm Adithya 👋</h1>
+# Hi there 👋 I'm Adithya!
+
+I'm a passionate Computer Science student with a strong drive to become a skilled software engineer. I love transforming ideas into practical software solutions that are scalable, efficient, and user-focused.
 
 ---
 
-## 📝 About Me
+## 🚀 About Me
 
-I am a Computer Science student with a strong commitment to mastering the foundations and frontiers of software engineering. My journey is driven by a passion for translating solid programming principles into efficient, user-centric solutions. Currently, I am preparing for a career in software engineering, with a keen focus on leveraging robust Data Structures & Algorithms (DSA) and scalable System Design. I actively build full-stack applications by architecting both the server-side logic and the client-side experience. Alongside software engineering, I am deeply interested in Artificial Intelligence and Machine Learning and regularly explore these domains through hands-on projects.
+- 🎓 I'm currently pursuing my BE in Computer Science.
+- 🛠️ I'm focused on building a solid foundation in **Data Structures & Algorithms** and **System Design**.
+- 🧑‍💻 I bring ideas to life through **full-stack web development**, building everything from backend logic to interactive UIs.
+- 🤖 I'm actively exploring **Artificial Intelligence** and **Machine Learning** to expand my skillset in intelligent systems.
 
 ---
 
-## 🚀 Focus Areas
+## 🎯 Current Focus Areas
 
-- Efficient and robust **Data Structures & Algorithms**
-- Scalable and maintainable **System Design**
-- Building practical **Full-Stack Applications**
-- Exploring **Artificial Intelligence** & **Machine Learning**
-- Bridging the gap between theory and real-world software solutions
+- Mastering **DSA** and **System Design** principles.
+- Building robust and scalable **full-stack applications**.
+- Diving deeper into **AI / ML** fundamentals and projects.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 ### 🧠 Programming Languages
-- Python &nbsp; | &nbsp; Java &nbsp; | &nbsp; C &nbsp; | &nbsp; HTML &nbsp; | &nbsp; CSS &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; SQL
+- Python
+- Java
+- C
+- HTML, CSS, JavaScript
+- SQL
 
 ### 🧰 Web Development
-**Frontend:**  
-HTML5 &nbsp; | &nbsp; CSS3 &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; Tailwind CSS &nbsp; | &nbsp; Bootstrap
+**Frontend:**
+- HTML5, CSS3, JavaScript
+- Tailwind CSS
+- Bootstrap *(if used)*
 
-**Backend:**  
-Django &nbsp; | &nbsp; Flask (familiar)
+**Backend:**
+- Django *(used during internship)*
+- Flask *(if familiar)*
 
-**Databases:**  
-SQLite &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; PostgreSQL
+**Database:**
+- SQLite
+- MySQL
+- PostgreSQL
 
-**APIs:**  
-REST APIs &nbsp; | &nbsp; JSON handling
+**APIs:**
+- RESTful APIs
+- JSON Handling
 
 ### 📊 Data Science & AI / ML
-- NumPy &nbsp; | &nbsp; Pandas &nbsp; | &nbsp; Matplotlib &nbsp;/&nbsp; Seaborn
+- NumPy, Pandas
+- Matplotlib / Seaborn
 - Scikit-learn
-- TensorFlow / PyTorch (if used)
-- OpenCV (used in brain tumor project)
+- TensorFlow / PyTorch *(if used)*
+- OpenCV *(used in brain tumor project)*
 
-### 🧩 Tools & Platforms
-- Git &nbsp; | &nbsp; GitHub &nbsp; | &nbsp; VS Code &nbsp; | &nbsp; Jupyter Notebook &nbsp; | &nbsp; Google Colab &nbsp; | &nbsp; Ubuntu
-
----
-
-## 📈 Activity 
-
-**GitHub**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adithyasivakumar&show_icons=true&hide_border=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithyasivakumar&theme=default" width="48%" />
-</p>
-
-**LeetCode**
-<p align="left">
-  <img src="https://leetcode-stats-six.vercel.app/?username=Adithya_sivakumar" width="400"/>
-</p>
+### 🧰 Tools & Platforms
+- Git & GitHub
+- Visual Studio Code
+- Jupyter Notebook
+- Google Colab
+- Ubuntu
 
 ---
 
-## 🤝 Let's Connect
+## 📈 GitHub & LeetCode Activity
 
-- [GitHub](https://github.com/Adithyasivakumar)
-- [LeetCode](https://leetcode.com/u/Adithya_sivakumar/)
-- [LinkedIn](https://www.linkedin.com/in/adithyasivakumar6805)
-- [Email](mailto:adithyasivakumar07@gmail.com)
+![Adithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adithyasivakumar&show_icons=true&theme=github_dark)
 
-<!--
-You can add badges or additional widgets as you prefer.
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyasivakumar&layout=compact&theme=github_dark)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Adithya_sivakumar?theme=dark&font=Fira+Code&ext=activity)](https://leetcode.com/u/Adithya_sivakumar/)
+
+---
+
+## 🤝 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/adithyasivakumar6805)
+- 🧑‍💻 [GitHub](https://github.com/Adithyasivakumar)
+- 🧩 [LeetCode](https://leetcode.com/u/Adithya_sivakumar/)
+- 📧 Email: adithyasivakumar07@gmail.com
