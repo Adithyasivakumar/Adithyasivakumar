@@ -6,12 +6,12 @@
 
 <br>
 
-I'm a passionate and driven third-year Computer Science student at KGISL Institute of Technology, with a strong focus on becoming a proficient Software Engineer. My goal is to leverage my skills in programming and design to build efficient, scalable, and user-focused software solutions. I'm driven by the challenge of breaking down complex problems into clean, logical, and understandable code.
+I'm a passionate and driven Computer Science student, with a strong focus on becoming a proficient Software Engineer. My goal is to leverage my skills in programming and design to build efficient, scalable, and user-focused software solutions. I'm driven by the challenge of breaking down complex problems into clean, logical, and understandable code.
 
 - 🔭 I’m currently building full-stack applications to translate foundational concepts into real-world practice.
 - 🌱 I’m mastering the pillars of great software: **Data Structures & Algorithms** and **System Design**.
 - 🤔 I’m also actively exploring the exciting fields of **Artificial Intelligence** and **Machine Learning**.
-- 💼 I am actively seeking a **Software Engineering Internship** where I can contribute to impactful projects and learn from experienced industry professionals.
+
 - 📫 How to reach me: **adithyasivakumar07@gmail.com**
 
 <br>
@@ -40,6 +40,6 @@ I'm a passionate and driven third-year Computer Science student at KGISL Institu
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&locale=en&theme=dracula" alt="your-github-stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[your-github-username]&layout=compact&langs_count=8&theme=dracula" alt="top-languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adithyasivakumar&show_icons=true&locale=en&theme=dracula" alt="your-github-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adithyasivakumar&layout=compact&langs_count=8&theme=dracula" alt="top-languages" />
 </p>
