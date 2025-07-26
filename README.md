@@ -74,27 +74,21 @@ I'm a developer passionate about connecting deep foundational knowledge with pra
 ### 📊 GitHub & LeetCode Activity
 
 <div align="center">
-
-<a href="https://leetcode.com/u/Adithya_sivakumar/">
-  <img src="https://leetcard.jacoblin.cool/Adithya_sivakumar?theme=dark&font=Syne%20Mono&ext=heatmap" alt="Adithya's LeetCode Stats" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Adithyasivakumar">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adithyasivakumar&show_icons=true&theme=tokyonight&count_private=true" alt="Adithya's GitHub Stats" />
-</a>
-
-<a href="https://github.com/Adithyasivakumar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyasivakumar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</a>
-
-<br>
-
-<a href="https://github.com/Adithyasivakumar">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adithyasivakumar&theme=tokyonight" alt="Adithya's GitHub Streak" />
-</a>
-
+  <a href="https://leetcode.com/u/Adithya_sivakumar/">
+    <img src="https://leetcard.jacoblin.cool/Adithya_sivakumar?theme=dark&font=Syne%20Mono&ext=heatmap" alt="Adithya's LeetCode Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/Adithyasivakumar">
+    <img src="https://github-readme-stats.vercel.app/api?username=Adithyasivakumar&show_icons=true&theme=tokyonight&count_private=true" alt="Adithya's GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/Adithyasivakumar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyasivakumar&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+  <br><br>
+  <a href="https://github.com/Adithyasivakumar">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Adithyasivakumar&theme=tokyonight" alt="Adithya's GitHub Streak" />
+  </a>
 </div>
 
 ---
