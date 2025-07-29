@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me 
 
 I'm a developer passionate about connecting deep foundational knowledge with practical application. With a solid base in **Data Structures & Algorithms** and **System Design**, I focus on building solutions that are not only functional but also scalable and robust.
 
