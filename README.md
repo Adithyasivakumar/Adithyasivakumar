@@ -86,9 +86,6 @@ I'm a developer passionate about connecting deep foundational knowledge with pra
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyasivakumar&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
   <br><br>
-  <a href="https://github.com/Adithyasivakumar">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Adithyasivakumar&theme=tokyonight" alt="Adithya's GitHub Streak" />
-  </a>
 </div>
 
 ---
