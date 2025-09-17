@@ -39,6 +39,10 @@ I'm a developer passionate about connecting deep foundational knowledge with pra
 **Core Concepts** <br>
 <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-20A4F3?style=for-the-badge" alt="DSA" />
 <img src="https://img.shields.io/badge/System%20Design-4285F4?style=for-the-badge" alt="System Design" />
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-orange?style=for-the-badge" alt="OOP" />
+<img src="https://img.shields.io/badge/DBMS-5A6978?style=for-the-badge" alt="DBMS" />
+<img src="https://img.shields.io/badge/Operating%20Systems-3D9970?style=for-the-badge" alt="OS" />
+<img src="https://img.shields.io/badge/Computer%20Networks-8A2BE2?style=for-the-badge" alt="CN" />
 <br><br>
 
 **Languages & Frameworks** <br>
