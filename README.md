@@ -1,14 +1,14 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=20A4F3&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Adithya+Sivakumar+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=20A4F3&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Adithya+Sivakumar+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+  
   <h3>Software Engineer | Full-Stack Developer | Problem Solver</h3>
+  
+  <p>
+    A passionate Computer Science undergraduate from India, focused on building efficient, scalable, and user-centric software solutions.
+  </p>
 </div>
-
-<p align="center">
-  A passionate Computer Science undergraduate from India, focused on building efficient, scalable, and user-centric software solutions.
-</p>
 
 ---
 
@@ -16,14 +16,16 @@
 
 I'm a developer passionate about connecting deep foundational knowledge with practical application. With a solid base in **Data Structures & Algorithms** and **System Design**, I focus on building solutions that are not only functional but also scalable and robust.
 
-- 🎓 Currently a **Computer Science undergraduate** at the Vellore Institute of Technology (VIT).
+- 🎓 Currently a **Computer Science undergraduate** honing my skills for a career in software engineering.
 - 💡 Core interests include: **Full-Stack Development, Scalable Backend Systems, AI/ML Integration, and Efficient Algorithms.**
-- 🌱 I'm dedicated to blending software engineering principles with data science to create intelligent applications.
+- 🌱 Dedicated to blending software engineering principles with data science to create intelligent applications.
 - 🚀 Striving to build and deploy real-world projects that solve complex problems.
 
 ---
 
 ### ✨ My Top Projects
+
+*This is a crucial section to showcase your skills. Fill it with 2-3 of your best projects.*
 
 <details>
   <summary><strong>Project Name 1: A brief, catchy description</strong></summary>
@@ -52,6 +54,7 @@ I'm a developer passionate about connecting deep foundational knowledge with pra
   <br><br>
   <a href="[LINK_TO_YOUR_REPO]" target="_blank"><strong>View Repository »</strong></a>
 </details>
+
 <br>
 
 ---
@@ -66,19 +69,10 @@ I'm a developer passionate about connecting deep foundational knowledge with pra
 **Languages & Frameworks** <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-
-**AI / ML / Data Science** <br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
 
 **Databases & Tools** <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
