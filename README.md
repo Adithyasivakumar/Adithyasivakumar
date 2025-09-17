@@ -5,7 +5,7 @@
 ### Software Engineer | Full-Stack Developer | Problem Solver
 
 <p>
-  A passionate Computer Science student from India, focused on building efficient and user-centric software solutions.
+  A passionate Computer Science student from India, focused on building efficient and user-centric software solutions.
 </p>
 
 </div>
@@ -16,19 +16,21 @@
 
 I'm a developer passionate about connecting deep foundational knowledge with practical application. With a solid base in **Data Structures & Algorithms** and **System Design**, I focus on building solutions that are not only functional but also scalable and robust.
 
-- 🎓 I'm currently a **Computer Science undergraduate** honing my skills for a career in software engineering.
-- 💡 Tech interests include: **Full-Stack Development, Scalable Backend Systems, AI/ML Integration, and Efficient Algorithms.**
-- 🌱 I'm dedicated to blending software engineering principles with data science to create intelligent applications.
-- 🚀 Striving to build and deploy real-world projects that solve complex problems.
+-   🎓 I'm currently a **Computer Science undergraduate** honing my skills for a career in software engineering.
+-   💡 Tech interests include: **Full-Stack Development, Scalable Backend Systems, AI/ML Integration, and Efficient Algorithms.**
+-   🌱 I'm dedicated to blending software engineering principles with data science to create intelligent applications.
+-   🚀 Striving to build and deploy real-world projects that solve complex problems.
 
 ---
 
-### 🚀 My Projects
+### 🎯 Focus Areas
 
-- **Project Name 1:** A brief, one-sentence description of the project. Built with **Python, Django, and PostgreSQL**.
-  - [View Repository](LINK_TO_REPO_1) | [Live Demo](LINK_TO_DEMO_1)
-- **Project Name 2:** A brief, one-sentence description of the project. Built with **JavaScript, TensorFlow, and Tailwind CSS**.
-  - [View Repository](LINK_TO_REPO_2)
+-   Mastering **Data Structures & Algorithms** for efficient problem-solving.
+-   Architecting and developing **RESTful APIs** and backend services using **Django**.
+-   Building modular and responsive user interfaces with **HTML, CSS, and JavaScript**.
+-   Managing and designing databases with **MySQL** and **PostgreSQL**.
+-   Exploring **Machine Learning** models and their application in software.
+-   Implementing **DevOps** best practices using **Git** for version control.
 
 ---
 
@@ -50,7 +52,7 @@ I'm a developer passionate about connecting deep foundational knowledge with pra
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 
 **AI / ML / Data Science** <br>
-<img src="httpshttps://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -77,18 +79,18 @@ I'm a developer passionate about connecting deep foundational knowledge with pra
 ### 📊 GitHub & LeetCode Activity
 
 <div align="center">
-  <a href="https://leetcode.com/u/Adithya_sivakumar/">
-    <img src="https://leetcard.jacoblin.cool/Adithya_sivakumar?theme=dark&font=Syne%20Mono&ext=heatmap" alt="Adithya's LeetCode Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/Adithyasivakumar">
-    <img src="https://github-readme-stats.vercel.app/api?username=Adithyasivakumar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" alt="Adithya's GitHub Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/Adithyasivakumar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyasivakumar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-  </a>
-  <br><br>
+  <a href="https://leetcode.com/u/Adithya_sivakumar/">
+    <img src="https://leetcard.jacoblin.cool/Adithya_sivakumar?theme=dark&font=Syne%20Mono&ext=heatmap" alt="Adithya's LeetCode Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/Adithyasivakumar">
+        <img src="https://github-readme-stats.vercel.app/api?username=Adithyasivakumar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" alt="Adithya's GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/Adithyasivakumar">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyasivakumar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  </a>
+  <br><br>
 </div>
 
 ---
@@ -96,16 +98,16 @@ I'm a developer passionate about connecting deep foundational knowledge with pra
 ### 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://github.com/Adithyasivakumar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/adithyasivakumar6805" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/Adithya_sivakumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="mailto:adithyasivakumar07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
-  </a>
+  <a href="https://github.com/Adithyasivakumar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/adithyasivakumar6805" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/Adithya_sivakumar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="mailto:adithyasivakumar07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+  </a>
 </div>
