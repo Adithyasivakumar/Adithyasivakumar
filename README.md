@@ -43,7 +43,7 @@ I'm a developer passionate about connecting deep foundational knowledge with pra
 <img src="https://img.shields.io/badge/DBMS-5A6978?style=for-the-badge" alt="DBMS" />
 <img src="https://img.shields.io/badge/Operating%20Systems-3D9970?style=for-the-badge" alt="OS" />
 <img src="https://img.shields.io/badge/Computer%20Networks-8A2BE2?style=for-the-badge" alt="CN" />
-<br><br>
+<br>
 
 **Languages & Frameworks** <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
