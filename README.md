@@ -88,11 +88,11 @@ I'm a developer passionate about connecting deep foundational knowledge with pra
   </a>
   <br><br>
   <a href="https://github.com/Adithyasivakumar">
-        <img src="https://github-readme-stats.vercel.app/api?username=Adithyasivakumar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" alt="Adithya's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Adithyasivakumar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" alt="Adithya's GitHub Stats" />
   </a>
   <br><br>
   <a href="https://github.com/Adithyasivakumar">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyasivakumar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyasivakumar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
   </a>
   <br><br>
 </div>
