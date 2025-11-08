@@ -33,7 +33,7 @@ My journey blends a strong foundation in **Data Structures, Algorithms, and Syst
 - 🧠 **Machine Learning & AI** — TensorFlow, Scikit-learn, OpenCV, Numpy, Pandas.  
 - ☁️ **Cloud Technologies** — Oracle Cloud, Docker, GitHub Actions.  
 - 🧮 **Data Science & Visualization** — Python, Tableau, Jupyter, Colab.  
-- ⚙️ **Software Engineering** — System Design, Object-Oriented Programming, DevOps, CI/CD.  
+- ⚙️ **Software Engineering** — System Design, OOP, DevOps, CI/CD.  
 - 💡 **Research & Development** — Automation, Brain Tumor Analysis, Drowsiness Detection Systems.
 
 ---
@@ -125,15 +125,19 @@ My journey blends a strong foundation in **Data Structures, Algorithms, and Syst
 
 ---
 
-## 📊 GitHub & LeetCode Stats
+## 📊 Coding Profiles
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Adithya_sivakumar?theme=dark&font=Syne%20Mono&ext=heatmap)](https://leetcode.com/u/Adithya_sivakumar/)  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Adithya_sivakumar?theme=dark&font=Syne%20Mono&ext=heatmap)](https://leetcode.com/u/Adithya_sivakumar/)
 <br>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adithyasivakumar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/Adithyasivakumar)  
+
+[![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/adithyasivttjd/)
 <br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyasivakumar&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Adithyasivakumar)
+
+<a href="https://www.geeksforgeeks.org/user/adithyasivttjd/">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adithyasivttjd&theme=tokyonight&hide_border=true" alt="GfG Streak" />
+</a>
 
 </div>
 
@@ -146,6 +150,7 @@ My journey blends a strong foundation in **Data Structures, Algorithms, and Syst
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Adithyasivakumar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adithyasivakumar6805)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Adithya_sivakumar/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/adithyasivttjd/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:adithyasivakumar07@gmail.com)
 
 </div>
