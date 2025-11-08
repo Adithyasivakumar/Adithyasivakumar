@@ -143,8 +143,6 @@ My journey blends a strong foundation in **Data Structures, Algorithms, and Syst
 </a>
 <br>
 
-[![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/adithyasivttjd/)
-
 </div>
 
 ---
