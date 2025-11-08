@@ -129,15 +129,20 @@ My journey blends a strong foundation in **Data Structures, Algorithms, and Syst
 
 <div align="center">
 
+### 🧮 LeetCode Stats  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Adithya_sivakumar?theme=dark&font=Syne%20Mono&ext=heatmap)](https://leetcode.com/u/Adithya_sivakumar/)
+<br>
+
+### 💻 GeeksforGeeks Stats  
+<a href="https://www.geeksforgeeks.org/user/adithyasivttjd/">
+  <img src="https://gfgstatscard.vercel.app/adithyasivttjd?theme=dark" alt="GfG stats" />
+</a>
 <br>
 
 [![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/adithyasivttjd/)
 <br>
 
-<a href="https://www.geeksforgeeks.org/user/adithyasivttjd/">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adithyasivttjd&theme=tokyonight&hide_border=true" alt="GfG Streak" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adithyasivakumar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/Adithyasivakumar)
 
 </div>
 
