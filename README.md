@@ -71,6 +71,8 @@ My journey blends a strong foundation in **Data Structures, Algorithms, and Syst
 
 ## 🧰 Tech Stack & Tools
 
+<div align="center">
+
 ### 🧩 **Programming Languages**
 | Category | Technologies |
 |-----------|---------------|
@@ -123,6 +125,8 @@ My journey blends a strong foundation in **Data Structures, Algorithms, and Syst
 | **Data Tools** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab) |
 | **Design Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma) |
 
+</div>
+
 ---
 
 ## 📊 Coding Profiles
@@ -140,9 +144,6 @@ My journey blends a strong foundation in **Data Structures, Algorithms, and Syst
 <br>
 
 [![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/adithyasivttjd/)
-<br>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adithyasivakumar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/Adithyasivakumar)
 
 </div>
 
