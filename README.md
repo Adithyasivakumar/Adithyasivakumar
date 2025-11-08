@@ -1,117 +1,134 @@
 <div align="center">
 
-# Hello, I'm Adithya Sivakumar 👋
+# 👋 Hey there, I'm **Adithya Sivakumar**
 
-### Software Engineer | Full-Stack Developer | Problem Solver
+### 🚀 Software Engineer | Full-Stack Developer | AI Enthusiast | Problem Solver
 
 <p>
-  A passionate Computer Science student from India, focused on building efficient and user-centric software solutions.
+A passionate Computer Science student from India, focused on designing intelligent, scalable, and user-centric software solutions.
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a developer passionate about connecting deep foundational knowledge with practical application. With a solid base in **Data Structures & Algorithms** and **System Design**, I focus on building solutions that are not only functional but also scalable and robust.
+I’m a **Computer Science Engineer** who loves connecting **deep technical knowledge** with **real-world impact**.  
+My journey blends a strong foundation in **Data Structures, Algorithms, and System Design** with hands-on expertise in **Full-Stack Development**, **AI**, and **Cloud Technologies**.
 
--   🎓 I'm currently a **Computer Science undergraduate** honing my skills for a career in software engineering.
--   💡 Tech interests include: **Full-Stack Development, Scalable Backend Systems, AI/ML Integration, and Efficient Algorithms.**
--   🌱 I'm dedicated to blending software engineering principles with data science to create intelligent applications.
--   🚀 Striving to build and deploy real-world projects that solve complex problems.
-
----
-
-### 🎯 Focus Areas
-
--   Mastering **Data Structures & Algorithms** for efficient problem-solving.
--   Architecting and developing **RESTful APIs** and backend services using **Django**.
--   Building modular and responsive user interfaces with **HTML, CSS, and JavaScript**.
--   Managing and designing databases with **MySQL** and **PostgreSQL**.
--   Exploring **Machine Learning** models and their application in software.
--   Implementing **DevOps** best practices using **Git** for version control.
+- 🎓 **Computer Science Undergraduate** at KGISL Institute of Technology.  
+- 💼 Worked as an **Intern at Pinesphere** (Django-based web solutions).  
+- 🌐 **Student Intern at KGXperience** — worked on Knowledge Engineering and AI-driven tools.  
+- ☁️ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**.  
+- 🧠 Experienced in **AI/ML**, **Data Analysis**, and **Cloud Computing**.  
+- 🧩 Passionate about bridging **AI and Software Engineering** for meaningful innovation.  
+- 🚀 Focused on building solutions that are **robust, data-driven, and scalable**.
 
 ---
 
-### 🛠️ Tools & Technologies
+## 🎯 Areas of Expertise
 
-**Core Concepts** <br>
-<img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-20A4F3?style=for-the-badge" alt="DSA" />
-<img src="https://img.shields.io/badge/System%20Design-4285F4?style=for-the-badge" alt="System Design" />
-<img src="https://img.shields.io/badge/Object--Oriented%20Programming-orange?style=for-the-badge" alt="OOP" />
-<img src="https://img.shields.io/badge/DBMS-5A6978?style=for-the-badge" alt="DBMS" />
-<img src="https://img.shields.io/badge/Operating%20Systems-3D9970?style=for-the-badge" alt="OS" />
-<img src="https://img.shields.io/badge/Computer%20Networks-8A2BE2?style=for-the-badge" alt="CN" />
-<br>
-
-**Languages & Frameworks** <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-
-**AI / ML / Data Science** <br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
-
-**Databases** <br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-
-**UI / Design** <br>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-
-**Tools & Platforms** <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Colab" />
+- **Full-Stack Web Development** using Django, REST Framework, HTML, CSS, JS, and Bootstrap.  
+- **Machine Learning & AI Integration** using TensorFlow, Scikit-learn, and OpenCV.  
+- **Cloud Technologies** with Oracle Cloud Infrastructure.  
+- **Data Analysis & Visualization** with Pandas, Numpy, and Tableau.  
+- **Containerization & Deployment** using Docker and GitHub Actions.  
+- **Strong Fundamentals** in DSA, System Design, and OOP Concepts.
 
 ---
 
-### 📊 GitHub & LeetCode Activity
+## 🏆 Certifications & Achievements
+
+- 🧾 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**  
+- 🎓 **IBM Machine Learning Specialization**  
+- 💻 **Career Essentials in Software Development** — *Microsoft & LinkedIn*  
+- 🧠 **Introduction to Data Science in Python** — *Coursera*  
+- 🧩 **C for Everyone: Programming Fundamentals** — *Coursera*  
+- ⚙️ **Python for Data Science, AI & Development** — *IBM / Coursera*  
+- 🧑‍💻 **Docker Foundations Professional Certificate**  
+- 🧮 **30 Days DSA Bootcamp Completion Certificate**  
+- 🏅 **Career Essentials in GitHub Professional Certificate**
+
+---
+
+## 💼 Work & Internship Experience
+
+### 🧑‍💻 Intern — **Pinesphere Technologies**  
+*Developed web applications using Django and Django REST Framework.*  
+- Built and optimized REST APIs for data-driven applications.  
+- Integrated front-end components using Bootstrap for responsive layouts.  
+- Collaborated in an Agile environment for full-cycle development.
+
+### 🧠 Intern — **KGXperience (Team KGX)**  
+*Worked on AI-driven student development systems and data analysis tools.*  
+- Contributed to research and development in **Knowledge Engineering**.  
+- Applied AI/ML models to enhance learning analytics and engagement systems.  
+- Gained insights into scalable software and academic performance tracking.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### **Frameworks & Libraries**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### **AI / ML & Data**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+
+### **Cloud & DevOps**
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 📊 GitHub & LeetCode Stats
 
 <div align="center">
-  <a href="https://leetcode.com/u/Adithya_sivakumar/">
-    <img src="https://leetcard.jacoblin.cool/Adithya_sivakumar?theme=dark&font=Syne%20Mono&ext=heatmap" alt="Adithya's LeetCode Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/Adithyasivakumar">
-    <img src="https://github-readme-stats.vercel.app/api?username=Adithyasivakumar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" alt="Adithya's GitHub Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/Adithyasivakumar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyasivakumar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-  </a>
-  <br><br>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Adithya_sivakumar?theme=dark&font=Syne%20Mono&ext=heatmap)](https://leetcode.com/u/Adithya_sivakumar/)  
+<br>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adithyasivakumar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/Adithyasivakumar)  
+<br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyasivakumar&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Adithyasivakumar)
+
 </div>
 
 ---
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://github.com/Adithyasivakumar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/adithyasivakumar6805" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/Adithya_sivakumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="mailto:adithyasivakumar07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
-  </a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Adithyasivakumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adithyasivakumar6805)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Adithya_sivakumar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:adithyasivakumar07@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *“Building intelligent systems that simplify the complex.”* ✨  
+© 2025 Adithya Sivakumar
+
 </div>
