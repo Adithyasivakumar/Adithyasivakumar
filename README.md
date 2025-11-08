@@ -76,54 +76,54 @@ My journey blends a strong foundation in **Data Structures, Algorithms, and Syst
 ### 🧩 **Programming Languages**
 | Category | Technologies |
 |-----------|---------------|
-| **Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus) |
-| **Web** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) |
+| **Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
+| **Web** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
 
 ---
 
 ### 🧱 **Frontend Development**
 | Category | Technologies |
 |-----------|---------------|
-| **UI Frameworks** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3) |
-| **Libraries & Styling** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) |
+| **UI Frameworks** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Libraries & Styling** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
 
 ---
 
 ### ⚙️ **Backend Development**
 | Category | Technologies |
 |-----------|---------------|
-| **Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask) |
-| **API Development** | ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql) |
-| **Authentication** | JWT, OAuth2, Django Auth |
+| **Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| **API Development** | ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) |
+| **Authentication** | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![OAuth2](https://img.shields.io/badge/OAuth2-3C8CEA?style=for-the-badge&logo=openid&logoColor=white) ![Django Auth](https://img.shields.io/badge/Django_Auth-092E20?style=for-the-badge&logo=django&logoColor=white) |
 
 ---
 
 ### 🧠 **AI / ML / Data Science**
 | Category | Technologies |
 |-----------|---------------|
-| **ML Libraries** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn) |
-| **Data Tools** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy) |
-| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv) |
-| **Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) |
+| **ML Libraries** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **Data Tools** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
+| **Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white) |
 
 ---
 
 ### ☁️ **Cloud, DevOps & Databases**
 | Category | Technologies |
 |-----------|---------------|
-| **Cloud Platforms** | ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws) |
-| **Containerization & CI/CD** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) |
+| **Cloud Platforms** | ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| **Containerization & CI/CD** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
 ### 🧰 **Development Environment**
 | Category | Tools |
 |-----------|--------|
-| **Editors & IDEs** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm) |
-| **Data Tools** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab) |
-| **Design Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma) |
+| **Editors & IDEs** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) |
+| **Data Tools** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black) |
+| **Design Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
 </div>
 
@@ -151,11 +151,11 @@ My journey blends a strong foundation in **Data Structures, Algorithms, and Syst
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Adithyasivakumar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adithyasivakumar6805)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adithyasivakumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyasivakumar6805)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Adithya_sivakumar/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/adithyasivttjd/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:adithyasivakumar07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyasivakumar07@gmail.com)
 
 </div>
 
