@@ -137,13 +137,7 @@ My journey blends a strong foundation in **Data Structures, Algorithms, and Syst
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Adithya_sivakumar?theme=dark&font=Syne%20Mono&ext=heatmap)](https://leetcode.com/u/Adithya_sivakumar/)
 <br>
 
-### 💻 GeeksforGeeks Stats  
-<a href="https://www.geeksforgeeks.org/user/adithyasivttjd/">
-  <img 
-    src="https://quickchart.io/chart?c={type:'bar',data:{labels:['School','Basic','Easy','Medium','Hard'],datasets:[{label:'Problems%20Solved',data:[5,10,20,15,2]}]},options:{plugins:{legend:{display:false}},scales:{y:{beginAtZero:true}}}}"
-    alt="GeeksforGeeks stats chart" />
-</a>
-<br>
+[![GfG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=adithyasivttjd)](https://www.geeksforgeeks.org/user/adithyasivttjd/)
 
 </div>
 
