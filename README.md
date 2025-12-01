@@ -139,7 +139,9 @@ My journey blends a strong foundation in **Data Structures, Algorithms, and Syst
 
 ### 💻 GeeksforGeeks Stats  
 <a href="https://www.geeksforgeeks.org/user/adithyasivttjd/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
+  <img 
+    src="https://quickchart.io/chart?c={type:'bar',data:{labels:['School','Basic','Easy','Medium','Hard'],datasets:[{label:'Problems%20Solved',data:[5,10,20,15,2]}]},options:{plugins:{legend:{display:false}},scales:{y:{beginAtZero:true}}}}"
+    alt="GeeksforGeeks stats chart" />
 </a>
 <br>
 
