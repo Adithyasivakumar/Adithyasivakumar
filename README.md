@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm **Adithya Sivakumar**
 
-### 🚀 Software Engineer | Full-Stack Developer | AI Enthusiast | Problem Solver
+### Software Engineer | Full-Stack Developer | AI Enthusiast | Problem Solver
 
 <p>
 A passionate Software Engineer from India, focused on designing intelligent, scalable, and user-centric software solutions.
