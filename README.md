@@ -17,37 +17,37 @@ A passionate Software Engineer from India, focused on designing intelligent, sca
 I’m a **Software Engineer** who loves connecting **deep technical knowledge** with **real-world impact**.  
 My journey blends a strong foundation in **Data Structures, Algorithms, and System Design** with hands-on expertise in **Full-Stack Development**, **AI**, and **Cloud Technologies**.
 
-- 🎓 **Computer Science Undergraduate** at KGISL Institute of Technology.  
-- 💼 Worked as an **Intern at Pinesphere** — focused on Django-based web development.  
-- 🌐 **Student Intern at KGXperience** — specialized in Knowledge Engineering and AI tools.  
-- ☁️ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**.  
-- 🧠 Experienced in **AI/ML**, **Data Analysis**, and **Cloud Computing**.  
-- 🧩 Passionate about merging **AI and Software Engineering** to build scalable, efficient, and intelligent systems.  
-- 🚀 Focused on developing solutions that are **robust, data-driven, and impactful**.
+- **Computer Science Undergraduate** at KGISL Institute of Technology.  
+- Worked as an **Intern at Pinesphere** — focused on Django-based web development.  
+- **Student Intern at KGXperience** — specialized in Knowledge Engineering and AI tools.  
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**.  
+- Experienced in **AI/ML**, **Data Analysis**, and **Cloud Computing**.  
+- Passionate about merging **AI and Software Engineering** to build scalable, efficient, and intelligent systems.  
+- Focused on developing solutions that are **robust, data-driven, and impactful**.
 
 ---
 
 ## 🎯 Areas of Expertise
 
-- 🧱 **Full-Stack Web Development** — Django, REST Framework, HTML, CSS, JavaScript, Bootstrap.  
-- 🧠 **Machine Learning & AI** — TensorFlow, Scikit-learn, OpenCV, Numpy, Pandas.  
-- ☁️ **Cloud Technologies** — Oracle Cloud, Docker, GitHub Actions.  
-- 🧮 **Data Science & Visualization** — Python, Tableau, Jupyter, Colab.  
-- ⚙️ **Software Engineering** — System Design, OOP, DevOps, CI/CD.  
-- 💡 **Research & Development** — Automation, Brain Tumor Analysis, Drowsiness Detection Systems.
+- **Full-Stack Web Development** — Django, REST Framework, HTML, CSS, JavaScript, Bootstrap.  
+- **Machine Learning & AI** — TensorFlow, Scikit-learn, OpenCV, Numpy, Pandas.  
+- **Cloud Technologies** — Oracle Cloud, Docker, GitHub Actions.  
+- **Data Science & Visualization** — Python, Tableau, Jupyter, Colab.  
+- **Software Engineering** — System Design, OOP, DevOps, CI/CD.  
+- **Research & Development** — Automation, Brain Tumor Analysis, Drowsiness Detection Systems.
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- ☁️ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**  
-- 🧠 **IBM Machine Learning Specialization**  
-- 💻 **Career Essentials in Software Development** — *Microsoft & LinkedIn*  
-- 🧩 **Docker Foundations Professional Certificate**  
-- 🎓 **Introduction to Data Science in Python** — *Coursera*  
-- 🐍 **Python for Data Science, AI & Development** — *IBM / Coursera*  
-- 🧮 **30 Days DSA Bootcamp Completion Certificate**  
-- ⚙️ **Career Essentials in GitHub Professional Certificate**
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**  
+- **IBM Machine Learning Specialization**  
+- **Career Essentials in Software Development** — *Microsoft & LinkedIn*  
+- **Docker Foundations Professional Certificate**  
+- **Introduction to Data Science in Python** — *Coursera*  
+- **Python for Data Science, AI & Development** — *IBM / Coursera*  
+- **30 Days DSA Bootcamp Completion Certificate**  
+- **Career Essentials in GitHub Professional Certificate**
 
 ---
 
